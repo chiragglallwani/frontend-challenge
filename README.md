@@ -16,10 +16,10 @@ bun dev
 
 ## ScreenShot
 
--![Dekstop View](screencapture-localhost-3000-2024-02-02-15_15_32.png)
+-![Dekstop View](src/images/screencapture-localhost-3000-2024-02-02-15_15_32.png)
 
-- ![Hamburger View](screencapture-localhost-3000-2024-02-02-15_15_59.png)
-- ![Menu Open View](<Screenshot 2024-02-02 at 3.16.44 PM.png>)
+- ![Mobile View](src/images/screencapture-localhost-3000-2024-02-02-15_15_59.png)
+- ![Menu Open](<src/images/Screenshot 2024-02-02 at 3.16.44 PM.png>)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
