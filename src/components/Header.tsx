@@ -98,7 +98,7 @@ const Header = () => {
     >
       <Container fluid="xs" className="bg-success flex-xs-nowrap">
         <div className={mobileNav}>
-          <Navbar.Brand className={customBrandCss} href="#">
+          <Navbar.Brand className={customBrandCss} href="/">
             Luxubar Demo
           </Navbar.Brand>
           <Navbar.Toggle
@@ -118,7 +118,7 @@ const Header = () => {
               <Nav.Link
                 className={linkCss}
                 eventKey={index + 1}
-                target="_blank"
+                target={item.target}
                 href={item.link}
                 onClick={() => setActive(!active)}
                 key={index}

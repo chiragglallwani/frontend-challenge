@@ -11,7 +11,7 @@ export default function Document() {
         />
         <link rel="icon" href="/nextjs.svg" sizes="any" />
       </Head>
-      <body style={{ margin: "0px" }}>
+      <body style={{ margin: "0px", minHeight: "100vh" }}>
         <Main />
         <NextScript />
       </body>
